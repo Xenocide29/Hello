@@ -22,7 +22,17 @@ This old machine has also helped me in many ways.
 
 It has allowed me to write countless assignments, practice programming, research topics, create projects, and complete school requirements. It was there when I was still in my first year of college. In its own limited way, it helped me survive my first year of Computer Science.
 
-Every time it freezes, I wait.
+There was even a time when I managed to download an **older version of Visual Studio Code** that could still run on my laptop. It may not have been the newest version, but it was enough for me to continue practicing and working on my projects.
+
+With that outdated version of VS Code and this old laptop, I was still able to create something that I am proud of: **my own personal portfolio website**. I created it for academic purposes and published it through another GitHub account at **[artxenos.github.io](https://artxenos.github.io)**.
+
+It may seem like a small achievement, especially when compared to the projects made using modern computers and powerful development environments. But for me, it means something more. I was able to create a portfolio using a machine that was already old before I even started college. I had to work with what I had, find compatible software, and make the most out of the limited resources available to me.
+
+That experience reminded me that sometimes, having limited resources does not necessarily mean that you cannot create something.
+
+You just have to find another way.
+
+Every time this laptop freezes, I wait.
 
 Every time it becomes extremely hot, I let it cool down.
 
@@ -32,7 +42,9 @@ Every time the fan becomes loud, I just continue working.
 
 Every time a program takes too long to open, I remind myself that at least it still opens.
 
-It may be old, slow, and unreliable, but it is still the device that I have.
+And every time I manage to finish something despite all of these problems, I feel a little bit proud.
+
+It may be an old laptop, but it has become part of my journey as a Computer Science student.
 
 For now, I'm holding on to this laptop even though it troubles me. I know that someday I will probably have to replace it, especially as the requirements of my course become more demanding. But until that day comes, I will continue using it and making the most out of what I have.
 
@@ -46,9 +58,13 @@ It may not even be able to keep up with me anymore.
 
 But somehow, it has kept up enough to help me reach **2nd Year Computer Science**.
 
-And maybe that's what matters.
+It helped me get through my first year. It helped me practice programming. It helped me create projects. It helped me build my portfolio. And even with all its problems, it continues to help me study today.
 
-I don't know what the next years of this course will look like. I don't know if my laptop will survive until graduation, and I don't even know if I will always feel motivated to continue Computer Science. There will probably be more difficult subjects, more complicated programming problems, more sleepless nights, and more moments when I question whether I can actually do this.
+Maybe someday I'll finally have a better computer. Maybe someday I'll be able to run the newest development tools without worrying about compatibility, lag, overheating, or whether the software will even install.
+
+But until then, I'll keep using this one.
+
+I don't know what the next years of this course will look like. I don't know if this laptop will survive until graduation, and I don't even know if I will always feel motivated to continue Computer Science. There will probably be more difficult subjects, more complicated programming problems, more sleepless nights, and more moments when I question whether I can actually do this.
 
 But I'm still here.
 
@@ -60,5 +76,6 @@ And I'm still moving forward.
 
 I may be struggling, but I haven't given up.
 
-**I'm still trying to do better.**
+**I'm still to do better.**
+
 

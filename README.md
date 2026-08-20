@@ -76,6 +76,6 @@ And I'm still moving forward.
 
 I may be struggling, but I haven't given up.
 
-**I'm still to do better.**
+**I'm still trying to do better.**
 
 
